@@ -16,14 +16,17 @@ A beginner-friendly Python program that converts values between common engineeri
 
 ## How to Run
 
-1. Install Python 3.
-2. Download or clone this repository.
-3. Open a terminal in the project folder.
-4. Run:
+• Download or clone this repository.
+
+• Open the engineering_unit_converter.py file in an environment that supports Python 3.
+
+• Run the program.
+
+If you are using a terminal, you can run it with:
 
    `python engineering_unit_converter.py`
 
-You can also open the file in a Python IDE or mobile Python app.
+Note: No specific application is required. You can use any environment that supports Python.
 
 ## Conversion Formulas
 
